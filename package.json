@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +44,9 @@
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.1.6"
+=======
+  "dependencies": {
+    "react-hot-toast": "^2.4.1"
+>>>>>>> 3ae5fb1a6cdf3756fb199fc03821c03006ae6a5e
   }
 }
